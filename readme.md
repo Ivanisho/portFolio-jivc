@@ -19,7 +19,7 @@ Para poder hacer el deploy en su navegador siga el siguiente enlace de netlify:
 
 ![](https://cdn.icon-icons.com/icons2/2699/PNG/512/netlify_logo_icon_169924.png)
 
-[My Portfolio](https://loginandacces.netlify.app/)
+[My Portfolio](https://portfolio-jivc.netlify.app/)
 
 ## Tech Stack
 
@@ -29,17 +29,25 @@ Para poder hacer el deploy en su navegador siga el siguiente enlace de netlify:
 
 ## Run Locally
 
-🤖 Clone el proyecto 🤖
+🤖 Clone or fork the project project 🤖
 
 ```bash
-  git clone https://github.com/project-assigments-p2-singulaars/portfolio-MegaDraconius.git
+  git clone https://github.com/Ivanisho/portFolio-jivc
 ```
 
-```bash
-  git fork https://github.com/project-assigments-p2-singulaars/portfolio-MegaDraconius.git
-```
+🔁 Forking the repo 🔁
 
-por el momento al no contar con dependencias ni librerias no se necesita de nada más.
+![](/resources/Captura%20de%20pantalla%202024-03-16%20154505.png)
+
+- Clickamos en el boton the fork
+
+![](/resources/Captura%20de%20pantalla%202024-03-16%20154954.png)
+
+- Seleccionamos el usuario donde queramos alojar el repositorio.
+- colocamos un nombre para el repositorio ( que este disponile)
+- Le damos una pequeña descripción.
+- Copiamos en caso de solo querer la rama main o las que incluya el repositorio a forkear.
+- Creamos el repositorio a nuestro github, pudiendo asi poder hacer cambios sin alterar el existente en el original.
 
 ## Things to do
 
